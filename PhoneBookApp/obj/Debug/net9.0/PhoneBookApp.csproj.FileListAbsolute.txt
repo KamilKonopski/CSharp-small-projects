@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\bin\Debug\net9.0\PhoneBookApp.exe
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\bin\Debug\net9.0\PhoneBookApp.deps.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\bin\Debug\net9.0\PhoneBookApp.runtimeconfig.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\bin\Debug\net9.0\PhoneBookApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\bin\Debug\net9.0\PhoneBookApp.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\refint\PhoneBookApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\PhoneBookApp.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PhoneBookApp\obj\Debug\net9.0\ref\PhoneBookApp.dll
