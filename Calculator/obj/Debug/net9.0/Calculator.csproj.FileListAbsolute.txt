@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\Calculator\obj\Debug\net9.0\ref\Calculator.dll
