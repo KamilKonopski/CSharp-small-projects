@@ -7,7 +7,9 @@ csharp-small-projects/
 
 ├── Calculator/ Prosty kalkulator z menu
 
-├── TaskManager/ Lista zadań z klasą reprezentującą zadanie
+├── PhoneBookApp/ Imitacja aplikacji z kontaktami na telefonie
+
+├── TaskManagerApp/ Lista zadań z klasą reprezentującą zadanie
 
 ├── ... Kolejne projekty w przyszłości
 
