@@ -4,13 +4,16 @@ Zbiór małych projektów konsolowych napisanych w języku C#. Każdy z projekt�
 
 ## 📁 Struktura katalogów
 csharp-small-projects/
+
 ├── Calculator/ # Prosty kalkulator z menu
+
 ├── TaskManager/ # Lista zadań z klasą reprezentującą zadanie
+
 ├── ... # Kolejne projekty w przyszłości
 
 ## ✅ Technologie
 
-- C# 8.0 / 9.0
+- C# 9.0
 - .NET SDK
 - Aplikacje konsolowe (bez .NET Core Web)
 - Visual Studio Code (z rozszerzeniem C# od Microsoft)
