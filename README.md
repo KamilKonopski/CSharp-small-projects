@@ -13,8 +13,7 @@ csharp-small-projects/
 
 ## ✅ Technologie
 
-- C# 9.0
-- .NET SDK
+- C# 13 / .NET 9
 - Aplikacje konsolowe (bez .NET Core Web)
 - Visual Studio Code (z rozszerzeniem C# od Microsoft)
 
