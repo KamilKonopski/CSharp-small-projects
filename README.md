@@ -5,11 +5,11 @@ Zbiór małych projektów konsolowych napisanych w języku C#. Każdy z projekt�
 ## 📁 Struktura katalogów
 csharp-small-projects/
 
-├── Calculator/ Prosty kalkulator z menu
+├── Calculator/
 
-├── PhoneBookApp/ Imitacja aplikacji z kontaktami na telefonie
+├── PhoneBookApp/
 
-├── TaskManagerApp/ Lista zadań z klasą reprezentującą zadanie
+├── TaskManagerApp/
 
 ├── ... Kolejne projekty w przyszłości
 
@@ -32,12 +32,18 @@ Upewnij się, że masz zainstalowany .NET SDK:
 👉 https://dotnet.microsoft.com/en-us/download
 
 ## 🛠️ Lista projektów
-Projekt	Opis
-Calculator	Prosty kalkulator wspierający podstawowe działania matematyczne.
-TaskManager	Lista zadań z klasą TaskItem i podstawową logiką aplikacyjną.
+
+➤ Calculator - Prosty kalkulator wspierający podstawowe działania matematyczne.
+
+➤ Phone Book - Imitacja aplikacji z kontaktami na telefonie: dodawanie, wyświetlanie, wyszukiwanie.
+
+➤ Task Manager - Lista zadań podstawową logiką aplikacyjne: dodawanie, usuwanie.
+
 ...	Więcej projektów w trakcie dodawania...
 
-🎯 Cel repozytorium
+
+## 🎯 Cel repozytorium
+
 - Nauka C# i .NET przez praktykę
 
 - Organizacja małych projektów w jednym miejscu
