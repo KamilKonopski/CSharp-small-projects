@@ -5,11 +5,11 @@ Zbiór małych projektów konsolowych napisanych w języku C#. Każdy z projekt�
 ## 📁 Struktura katalogów
 csharp-small-projects/
 
-├── Calculator/ # Prosty kalkulator z menu
+├── Calculator/ Prosty kalkulator z menu
 
-├── TaskManager/ # Lista zadań z klasą reprezentującą zadanie
+├── TaskManager/ Lista zadań z klasą reprezentującą zadanie
 
-├── ... # Kolejne projekty w przyszłości
+├── ... Kolejne projekty w przyszłości
 
 ## ✅ Technologie
 
