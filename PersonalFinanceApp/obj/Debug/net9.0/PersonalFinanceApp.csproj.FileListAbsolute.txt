@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\bin\Debug\net9.0\PersonalFinanceApp.exe
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\bin\Debug\net9.0\PersonalFinanceApp.deps.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\bin\Debug\net9.0\PersonalFinanceApp.runtimeconfig.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\bin\Debug\net9.0\PersonalFinanceApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\bin\Debug\net9.0\PersonalFinanceApp.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\refint\PersonalFinanceApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\PersonalFinanceApp.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\PersonalFinanceApp\obj\Debug\net9.0\ref\PersonalFinanceApp.dll
