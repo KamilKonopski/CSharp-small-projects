@@ -11,6 +11,12 @@ csharp-small-projects/
 
 ├── TaskManagerApp/
 
+├── PasswordGenerator/
+
+├── QuizApp/
+
+├── MiniChatSimulator/
+
 ├── ... Kolejne projekty w przyszłości
 
 ## ✅ Technologie
@@ -38,6 +44,12 @@ Upewnij się, że masz zainstalowany .NET SDK:
 ➤ Phone Book - Imitacja aplikacji z kontaktami na telefonie: dodawanie, wyświetlanie, wyszukiwanie.
 
 ➤ Task Manager - Lista zadań podstawową logiką aplikacyjne: dodawanie, usuwanie.
+
+➤ Password Generator – Generator losowych haseł zawierających litery, cyfry i znaki specjalne.
+
+➤ Quiz App – Edukacyjna aplikacja quizowa z pytaniami wielokrotnego wyboru.
+
+➤ Mini Chat Simulator – Prosty symulator czatu z botem.
 
 ...	Więcej projektów w trakcie dodawania...
 
