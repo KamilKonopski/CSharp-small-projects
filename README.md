@@ -17,6 +17,8 @@ csharp-small-projects/
 
 ├── MiniChatSimulator/
 
+├── PersonalFinanceApp/
+
 ├── ... Kolejne projekty w przyszłości
 
 ## ✅ Technologie
@@ -50,6 +52,8 @@ Upewnij się, że masz zainstalowany .NET SDK:
 ➤ Quiz App - Edukacyjna aplikacja quizowa z pytaniami wielokrotnego wyboru.
 
 ➤ Mini Chat Simulator - Prosty symulator czatu z botem.
+
+➤ Personal Finance App - Aplikacja do zarządzania finansami osobistymi, pozwalająca na tworzenie kont bankowych, dodawanie transakcji (wpłaty/wypłaty) oraz przeglądanie historii transakcji i sald kont.
 
 ...	Więcej projektów w trakcie dodawania...
 
