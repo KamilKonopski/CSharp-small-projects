@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\bin\Debug\net9.0\QuizApp.exe
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\bin\Debug\net9.0\QuizApp.deps.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\bin\Debug\net9.0\QuizApp.runtimeconfig.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\bin\Debug\net9.0\QuizApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\bin\Debug\net9.0\QuizApp.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\refint\QuizApp.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\QuizApp.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\QuizApp\obj\Debug\net9.0\ref\QuizApp.dll
