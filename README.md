@@ -45,11 +45,11 @@ Upewnij się, że masz zainstalowany .NET SDK:
 
 ➤ Task Manager - Lista zadań podstawową logiką aplikacyjne: dodawanie, usuwanie.
 
-➤ Password Generator – Generator losowych haseł zawierających litery, cyfry i znaki specjalne.
+➤ Password Generator - Generator losowych haseł zawierających litery, cyfry i znaki specjalne.
 
-➤ Quiz App – Edukacyjna aplikacja quizowa z pytaniami wielokrotnego wyboru.
+➤ Quiz App - Edukacyjna aplikacja quizowa z pytaniami wielokrotnego wyboru.
 
-➤ Mini Chat Simulator – Prosty symulator czatu z botem.
+➤ Mini Chat Simulator - Prosty symulator czatu z botem.
 
 ...	Więcej projektów w trakcie dodawania...
 
