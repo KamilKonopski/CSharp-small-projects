@@ -1,0 +1,14 @@
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\bin\Debug\net9.0\MiniChatSimulator.exe
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\bin\Debug\net9.0\MiniChatSimulator.deps.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\bin\Debug\net9.0\MiniChatSimulator.runtimeconfig.json
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\bin\Debug\net9.0\MiniChatSimulator.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\bin\Debug\net9.0\MiniChatSimulator.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\refint\MiniChatSimulator.dll
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.pdb
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\MiniChatSimulator.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\Projects\CSharpProjects\MiniChatSimulator\obj\Debug\net9.0\ref\MiniChatSimulator.dll
